@@ -1,9 +1,9 @@
 # กำหนดชื่อนามสกุล
-last_name = "Wil"
-first_name = "428"
+last_name = "chansriwicha"
+first_name = "phoommin"
 
 # นำมาต่อกัน
-whole_name = last_name + " " + first_name
+whole_name = first_name + " " + last_name
 
 # แสดงผล
 print(whole_name)
