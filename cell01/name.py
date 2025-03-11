@@ -1,3 +1,4 @@
-first_name = "fujimiya"
-last_name = "hiroya"
-print(first_name,last_name)
+last_name = "fujimiya"
+frist_name = "hiroya"
+whole_name = last_name + " " + frist_name
+print(whole_name)
